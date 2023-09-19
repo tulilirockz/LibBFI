@@ -147,6 +147,11 @@
 ### Other
 - separate implementations for brainfuck runtimes and BFMemory
 
+## [6.0.1](https://github.com/tulilirockz/LibBFI/compare/v6.0.0...v6.0.1) - 2023-09-19
+
+### Other
+- *(deps)* bump actions/checkout from 3 to 4
+
 ## 1.0.0 (2023-07-31)
 
 
