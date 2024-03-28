@@ -1,5 +1,11 @@
 # Changelog
 
+## [6.0.1](https://github.com/tulilirockz/LibBFI/compare/v6.0.0...v6.0.1) - 2024-03-28
+
+### Other
+- Switch to Vec for tape memory, allow custom sized tape
+- *(deps)* bump actions/checkout from 3 to 4
+
 ## [1.0.2](https://github.com/tulilirockz/rBFI/compare/v1.0.1...v1.0.2) (2023-07-31)
 
 
